@@ -1,6 +1,6 @@
 ## ✔ KRISHI NETWORK SDE INTERNSHIP ASSIGNMENT
 
-### Bui;t the backend for an anonymous twitter app that also shows current weather status.
+### Built the backend for an anonymous Twitter App that also shows current weather status.
 
 ### Assignment Criteria :
 - Use of object-oriented programming
